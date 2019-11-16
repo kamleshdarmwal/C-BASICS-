@@ -1,0 +1,19 @@
+=======================================================Program 1(STRING)================================================
+    class Program
+    {
+        static void Main(string[] args)
+        {
+        string name1 = "Jenne";
+        string name2 = "Bob";
+        bool nameEqual = name1 == name2;
+        System.Console.WriteLine("Names Equal: ", nameEqual);
+
+        }
+    }
+    
+==========================================================================================================================
+
+
+
+
+
